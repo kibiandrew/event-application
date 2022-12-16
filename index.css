@@ -1,6 +1,6 @@
 table {
 
-  background-color: #D6EEEE;
+  background-color: #1ab5b5;
 
     border-collapse: collapse;
     
@@ -9,6 +9,7 @@ table {
   th, td {
     border: 1px solid black;
     padding: 8px;
+    border-bottom: 1px solid #ddd;
   }
   
   th {
