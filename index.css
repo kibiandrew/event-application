@@ -1,0 +1,15 @@
+table {
+    size: 350px;
+    border-collapse: collapse;
+    
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: rgb(121, 196, 223);
+    
+  }
